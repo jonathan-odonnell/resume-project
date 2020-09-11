@@ -587,8 +587,12 @@ img {
     max-width: 70%;
 }
 
+.center-form input {
+    margin-bottom: 20px;
+}
+
 button[type="submit"] {
-    margin-top: 15px;
+    margin-top: 20px;
     margin-bottom: 20px;
     color: #fafafa;
     background-color: #e84610;
